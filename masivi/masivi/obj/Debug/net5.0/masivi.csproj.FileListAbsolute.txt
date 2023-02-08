@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\obj\Debug\net5.0\masivi.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\obj\Debug\net5.0\masivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\obj\Debug\net5.0\masivi.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\obj\Debug\net5.0\masivi.AssemblyInfo.cs
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\obj\Debug\net5.0\masivi.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\bin\Debug\net5.0\masivi.exe
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\bin\Debug\net5.0\masivi.deps.json
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\bin\Debug\net5.0\masivi.runtimeconfig.json
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\bin\Debug\net5.0\masivi.runtimeconfig.dev.json
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\bin\Debug\net5.0\masivi.dll
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\bin\Debug\net5.0\ref\masivi.dll
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\bin\Debug\net5.0\masivi.pdb
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\obj\Debug\net5.0\masivi.dll
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\obj\Debug\net5.0\ref\masivi.dll
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\obj\Debug\net5.0\masivi.pdb
+C:\Users\Student\Documents\11b 4\RPP\masivi\masivi\obj\Debug\net5.0\masivi.genruntimeconfig.cache
