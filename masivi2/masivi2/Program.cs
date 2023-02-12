@@ -8,29 +8,35 @@ namespace masivi2
         static void Main(string[] args)
         {
             
-            string[] arr = Console.ReadLine().Split().ToArray();
+            string[] arr = Console.ReadLine()!.Split().ToArray();
 
-            int num = int.Parse(Console.ReadLine());
-            for (int i = 0; i < num; i++)
-            {
-                args = Console.ReadLine().Split();
-                if (args[0] == "Reverse")
-                {
-                    arr = arr.Reverse().ToArray();
+            args = Console.ReadLine()!.Split();
+            while (args[0] != "END") {
+                switch (args[0]) {
+                    case "Reverse": {
+                        arr = arr.Reverse().ToArray();
+                        break;
+                    }
+                    case "Distinct": {
+                        arr = arr.Distinct().ToArray();
+                        break;
+                    }
+                    case "Replace": {
+                        int index = int.Parse(args[1]);
+                        if (index > arr.Length - 1 || index < 0) {
+                            Console.WriteLine("Invalid Input");
+                        }
+                        else {
+                            arr[index] = args[2];
+                        }
+                        break;
+                    }
+                    case "Print": {
+                        Console.WriteLine(string.Join(" ", arr.Where(x => x.StartsWith(args[1]))));
+                        break;
+                    }
                 }
-                else if (args[0] == "Distinct")
-                {
-                    arr = arr.Distinct().ToArray();
-                }
-                else if (args[0] == "Replace")
-                {
-                    int index = int.Parse(args[1]);
-                    arr[index] = args[2];
-                }
-                else if (args[0] == "Print")
-                {
-                    Console.WriteLine(string.Join(" ", arr.Where(x => x.StartsWith(args[1]))));
-                }   
+                args = Console.ReadLine()!.Split();
             }
             Console.WriteLine(string.Join(", ", arr));
         }
