@@ -6,8 +6,7 @@ namespace Lists3 {
     static class Program {
         static void Main() {
             List<string> results = new();
-            List<string> input = Console.ReadLine().Split('|',
-                StringSplitOptions.RemoveEmptyEntries).ToList();
+            List<string> input = Console.ReadLine().Split('|').ToList();
             
             for (int i = input.Count - 1; i >= 0; i--) {
                 string[] elements = input[i].Split(' ', StringSplitOptions.RemoveEmptyEntries);

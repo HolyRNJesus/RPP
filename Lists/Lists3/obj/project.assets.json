@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Random Stuff\\VSCode\\c#\\Lists\\Lists3\\Lists3.csproj",
+      "projectUniqueName": "D:\\DOWNLOADS\\RPP\\Lists\\Lists3\\Lists3.csproj",
       "projectName": "Lists3",
-      "projectPath": "D:\\Random Stuff\\VSCode\\c#\\Lists\\Lists3\\Lists3.csproj",
+      "projectPath": "D:\\DOWNLOADS\\RPP\\Lists\\Lists3\\Lists3.csproj",
       "packagesPath": "C:\\Users\\titan\\.nuget\\packages\\",
-      "outputPath": "D:\\Random Stuff\\VSCode\\c#\\Lists\\Lists3\\obj\\",
+      "outputPath": "D:\\DOWNLOADS\\RPP\\Lists\\Lists3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\titan\\AppData\\Roaming\\NuGet\\NuGet.Config"
