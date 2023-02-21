@@ -1,0 +1,16 @@
+D:\Random Stuff\VSCode\c#\Lists\Lists4\bin\Debug\net5.0\Lists4.exe
+D:\Random Stuff\VSCode\c#\Lists\Lists4\bin\Debug\net5.0\Lists4.deps.json
+D:\Random Stuff\VSCode\c#\Lists\Lists4\bin\Debug\net5.0\Lists4.runtimeconfig.json
+D:\Random Stuff\VSCode\c#\Lists\Lists4\bin\Debug\net5.0\Lists4.runtimeconfig.dev.json
+D:\Random Stuff\VSCode\c#\Lists\Lists4\bin\Debug\net5.0\Lists4.dll
+D:\Random Stuff\VSCode\c#\Lists\Lists4\bin\Debug\net5.0\ref\Lists4.dll
+D:\Random Stuff\VSCode\c#\Lists\Lists4\bin\Debug\net5.0\Lists4.pdb
+D:\Random Stuff\VSCode\c#\Lists\Lists4\obj\Debug\net5.0\Lists4.csproj.AssemblyReference.cache
+D:\Random Stuff\VSCode\c#\Lists\Lists4\obj\Debug\net5.0\Lists4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Stuff\VSCode\c#\Lists\Lists4\obj\Debug\net5.0\Lists4.AssemblyInfoInputs.cache
+D:\Random Stuff\VSCode\c#\Lists\Lists4\obj\Debug\net5.0\Lists4.AssemblyInfo.cs
+D:\Random Stuff\VSCode\c#\Lists\Lists4\obj\Debug\net5.0\Lists4.csproj.CoreCompileInputs.cache
+D:\Random Stuff\VSCode\c#\Lists\Lists4\obj\Debug\net5.0\Lists4.dll
+D:\Random Stuff\VSCode\c#\Lists\Lists4\obj\Debug\net5.0\ref\Lists4.dll
+D:\Random Stuff\VSCode\c#\Lists\Lists4\obj\Debug\net5.0\Lists4.pdb
+D:\Random Stuff\VSCode\c#\Lists\Lists4\obj\Debug\net5.0\Lists4.genruntimeconfig.cache
