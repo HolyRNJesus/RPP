@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\bin\Debug\net5.0\Lists6.exe
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\bin\Debug\net5.0\Lists6.deps.json
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\bin\Debug\net5.0\Lists6.runtimeconfig.json
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\bin\Debug\net5.0\Lists6.runtimeconfig.dev.json
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\bin\Debug\net5.0\Lists6.dll
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\bin\Debug\net5.0\ref\Lists6.dll
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\bin\Debug\net5.0\Lists6.pdb
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\obj\Debug\net5.0\Lists6.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\obj\Debug\net5.0\Lists6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\obj\Debug\net5.0\Lists6.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\obj\Debug\net5.0\Lists6.AssemblyInfo.cs
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\obj\Debug\net5.0\Lists6.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\obj\Debug\net5.0\Lists6.dll
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\obj\Debug\net5.0\ref\Lists6.dll
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\obj\Debug\net5.0\Lists6.pdb
+C:\Users\Student\Documents\11b 4\RPP\Lists\Lists6\obj\Debug\net5.0\Lists6.genruntimeconfig.cache
